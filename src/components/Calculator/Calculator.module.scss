@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  row-gap: 21px;
+
+  width: 900px;
+}
+
+.title {
+  margin: 0;
+  padding-top: 152px;
+
+  text-align: center;
+
+  color: var(--secondary);
+
+  font-size: 29px;
+  font-weight: 400;
+}

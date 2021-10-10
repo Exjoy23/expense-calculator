@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  flex-direction: column;
+
+  min-height: 236px;
+  margin: 0;
+  padding: 42px 32px 32px;
+
+  list-style: none;
+
+  border-radius: 7px;
+  background-color: var(--secondary);
+  row-gap: 8px;
+}

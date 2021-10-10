@@ -1,0 +1,35 @@
+.label {
+  position: relative;
+}
+
+.input {
+  width: 345px;
+  height: 40px;
+  padding: 0 14px;
+
+  letter-spacing: 0.8px;
+
+  border: 1px solid var(--primary-light);
+  border-radius: 3px;
+
+  font-family: var(--font);
+  font-size: 15px;
+
+  &_error {
+    border-color: var(--warning);
+  }
+}
+
+.error {
+  position: absolute;
+  top: 2px;
+  left: 50%;
+
+  width: 165px;
+
+  transform: translateX(-50%);
+
+  color: var(--warning);
+
+  font-size: 12px;
+}

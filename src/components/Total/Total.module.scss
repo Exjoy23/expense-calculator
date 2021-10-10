@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 33px 32px;
+
+  border-radius: 7px;
+  background-color: var(--secondary);
+  row-gap: 30px;
+}
+
+.sum {
+  font-size: 20px;
+  font-weight: 700;
+}
