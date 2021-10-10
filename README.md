@@ -1,9 +1,9 @@
-# ПРОЕКТ CONTACT-LIST
+# ПРОЕКТ EXPENSE-CALCULATOR
+
+Опубликованная версия - [expense-calculator](https://expense-calculator-jade.vercel.app)
 
 Используемые технологии:
 
 - TypeScript
 - React
-- Redux Toolkit
 - SCSS, CSS Modules
-- Firebase
